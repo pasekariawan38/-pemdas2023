@@ -17,7 +17,7 @@ public class JavaApplication5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        /* 
+        
         System.out.printf("%s%c\n","Pemrograman Java",'|'); 
         System.out.printf("%30s%c\n","Pemrograman Java",'|');
         System.out.printf("%-30s%c\n","Pemrograman Java",'|');
@@ -36,7 +36,7 @@ public class JavaApplication5 {
         String s = "Belajar Java"; 
         System.out.println(nilai+nilai_2); 
         System.out.println("Kita sedang "+s);
-        */
+        
         
         Scanner input = new Scanner(System.in); 
         int nilai1, nilai2, hasil; 
