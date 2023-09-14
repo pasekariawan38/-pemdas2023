@@ -24,12 +24,6 @@ public class JavaApplication5 {
         System.out.printf("%30.5s%c\n","Pemrograman Java",'|');
         
         
-        float x = 7654.123456789F;
-        System.out.printf("%d	%3d	%8d\n",1234,-567,8910); 
-        System.out.printf("%d		%3d	%+8d\n",1234,-567,8910);
-        System.out.printf("%f	%15f	%15.3f\n",x,x,x);
-
-        
         int nilai=10;
         double nilai_2=5.3; 
         int hasil;
